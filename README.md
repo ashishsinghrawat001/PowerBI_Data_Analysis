@@ -1,1 +1,1 @@
-# PowerBI_Data_Analysis
+# PowerBI_Data_Analysis:- Developed and implemented a comprehensive Power BI sales dashboard, empowering data-driven decision-making and optimizing sales strategies with insightful visualizations and real-time analytics. Utilized advanced data modeling and interactive reporting features to enhance sales performance tracking, identify key trends, and drive revenue growth. 
